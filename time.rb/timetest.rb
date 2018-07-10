@@ -1,0 +1,1 @@
+puts Time.now.hour.to_s
